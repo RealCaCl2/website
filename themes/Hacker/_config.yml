@@ -3,11 +3,11 @@ menu:
   Archives: /archives
 
 # gitment
-gitment: true
-gitment_owner: RealCaCl2
-gitment_repo: website
-gitment_client_id: 6d322105aa88fd54e564
-gitment_client_secret: 215807cec5bb2b6b99b823a95792a1a9feb3f8cb
+gitment: false
+gitment_owner: 
+gitment_repo: 
+gitment_client_id: 
+gitment_client_secret: 
 
 # gitalk
 gitalk: false
