@@ -8,12 +8,12 @@ subtitle: 'A CaCl2 Website'
 description: 'A CaCl2 Website'
 keywords:
 author: CaCl2
-language: zh-Hans
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://cacl2.me/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: Hacker
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
